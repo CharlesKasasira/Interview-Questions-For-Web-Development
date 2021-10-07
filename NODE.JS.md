@@ -1,3 +1,23 @@
+# Node.js Beginner
+
+
+### 1. What is node.js and where do you use it?
+### 2. Why use Node.js?
+### 3. How does Node.js work?
+### 4. Why is Node.js single-threaded?
+### 5. Explain callbacks in Node.js
+### 6. How would you define the term I/O?
+### 7. How is node.js frequently used?
+### 8. Explain the difference between front-end and back-end development
+### 9. What is NPM?
+### 10. What are modules in Node.js?
+### 11. Why is node.js preferred over other backend technologies like Java and PHP
+### 12. What is the difference between Angular and Node.js?
+### 13. Which database is more popular used with node.js?
+### 14. What are some of the most used libraries in Node.js?
+### 15. What are the pros and cons of Node.js?
+### 16. What is the command used to import external libraries?
+
 # Node.js Intermediate
 
 
